@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEBB9275",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 35.10087716,
+    "ref_longitude": -89.83769141,
+    "ref_altitude": 1,
+    "contact_email": "jacob@xabart.com",
+    "description": "ttn-gateway"
+  }
+}
